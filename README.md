@@ -1,5 +1,10 @@
 # GMA3_VegasFader
 
+All Files and infos you need to create Vegas Fader on GrandMA3..
+Plugin and DMX Curves for Import
+Fixture for Import
+Full Showfile with VegasFader Programmed.. -> i mean, DMX Curves are not part of the Showfile!
+
 ## Create DMX Curves
 
 ![DimmerCurves](https://github.com/imhofroger/GMA3_VegasFader/blob/5dc2be283a9e4f42687205e15d822f256913bb64/DimmerCurves.png)
