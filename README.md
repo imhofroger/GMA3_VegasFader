@@ -104,8 +104,14 @@
 
 ## Fixture
 
+##### Fixture Attributes
+
 ![Fixture Attributes](https://github.com/imhofroger/GMA3_VegasFader/blob/698c51c117b84e54c5ade72910d78def11bdd0fe/FixtureAttributes.png)
 
+##### Fixture Channels
+
 ![Fixture Channel](https://github.com/imhofroger/GMA3_VegasFader/blob/698c51c117b84e54c5ade72910d78def11bdd0fe/Fixture1.png)
+
+##### Fixture Relations
 
 ![Fixture Relations](https://github.com/imhofroger/GMA3_VegasFader/blob/698c51c117b84e54c5ade72910d78def11bdd0fe/Fixture2.png)
