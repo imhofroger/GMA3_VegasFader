@@ -2,6 +2,8 @@
 
 ## Create DMX Curves
 
+![DimmerCurves](https://github.com/imhofroger/GMA3_VegasFader/blob/5dc2be283a9e4f42687205e15d822f256913bb64/DimmerCurves.png)
+
 ##### step 1
 | No  | In | Out | Accel | Decel |
 | --- | --- | --- | --- | --- |
