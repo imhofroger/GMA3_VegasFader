@@ -101,3 +101,11 @@
 | 3 | 225 | 255 | 0 | 0 |
 | 4 | 255 | 255 | 0 | 0 |
 | 5 | 255 | 0 | 0 | 0 |
+
+## Fixture
+
+![Fixture Attributes](https://github.com/imhofroger/GMA3_VegasFader/blob/698c51c117b84e54c5ade72910d78def11bdd0fe/FixtureAttributes.png)
+
+![Fixture Channel](https://github.com/imhofroger/GMA3_VegasFader/blob/698c51c117b84e54c5ade72910d78def11bdd0fe/Fixture1.png)
+
+![Fixture Relations](https://github.com/imhofroger/GMA3_VegasFader/blob/698c51c117b84e54c5ade72910d78def11bdd0fe/Fixture2.png)
