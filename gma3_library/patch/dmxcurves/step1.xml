@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="1.6.3.7">
+    <DmxCurve Name="step1" CurveMode="Custom" MinX="323232" MinY="000000" MaxX="323232" MaxY="636363">
+        <DmxCurvePoint In="000000" Out="00A204" Accel="000000" Decel="000000" />
+        <DmxCurvePoint In="000000" Out="FFFFFF" Accel="001AF7" Decel="001AF8" />
+        <DmxCurvePoint In="181818" Out="FFFFFF" Accel="000000" Decel="000000" />
+        <DmxCurvePoint In="181818" Out="0075DB" Accel="000000" Decel="0050E9" />
+        <DmxCurvePoint In="FFFFFF" Out="000000" Accel="000000" Decel="000000" />
+    </DmxCurve>
+</GMA3>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="1.6.3.7">
+    <FixtureType Name="Step" Guid="00 00 00 00 52 0E 00 00 AB ED 30 AC 31 B0 CD 6C" Color="1.000000,1.000000,1.000000,1.000000" ShortName="Step" Manufacturer="Generic" Universal="No">
+        <AttributeDefinitions>
+            <ActivationGroups />
+            <FeatureGroups>
+                <FeatureGroup Name="Dimmer">
+                    <Feature Name="Dimmer" />
+                </FeatureGroup>
+            </FeatureGroups>
+            <Attributes>
+                <Attribute Name="Dimmer" Pretty="Dim" Feature="Dimmer.Dimmer" Special="Dimmer" SpecialIndex="0" PhysicalUnit="LuminousIntensity" NaturalReadout="Percent" EncoderResolution="Coarse" />
+                <Attribute Name="Step1" Pretty="Step1" Feature="Dimmer.Dimmer" SpecialIndex="0" PhysicalUnit="LuminousIntensity" Color="1.000000,1.000000,1.000000,1.000000" NaturalReadout="Percent" EncoderResolution="Coarse" />
+                <Attribute Name="Step2" Pretty="Step2" Feature="Dimmer.Dimmer" SpecialIndex="0" PhysicalUnit="LuminousIntensity" Color="1.000000,1.000000,1.000000,1.000000" NaturalReadout="Percent" EncoderResolution="Coarse" />
+                <Attribute Name="Step3" Pretty="Step3" Feature="Dimmer.Dimmer" SpecialIndex="0" PhysicalUnit="LuminousIntensity" Color="1.000000,1.000000,1.000000,1.000000" NaturalReadout="Percent" EncoderResolution="Coarse" />
+                <Attribute Name="Step4" Pretty="Step4" Feature="Dimmer.Dimmer" SpecialIndex="0" PhysicalUnit="LuminousIntensity" Color="1.000000,1.000000,1.000000,1.000000" NaturalReadout="Percent" EncoderResolution="Coarse" />
+                <Attribute Name="Step5" Pretty="Step5" Feature="Dimmer.Dimmer" SpecialIndex="0" PhysicalUnit="LuminousIntensity" Color="1.000000,1.000000,1.000000,1.000000" NaturalReadout="Percent" EncoderResolution="Coarse" />
+                <Attribute Name="Step6" Pretty="Step6" Feature="Dimmer.Dimmer" SpecialIndex="0" PhysicalUnit="LuminousIntensity" Color="1.000000,1.000000,1.000000,1.000000" NaturalReadout="Percent" EncoderResolution="Coarse" />
+                <Attribute Name="Step7" Pretty="Step7" Feature="Dimmer.Dimmer" SpecialIndex="0" PhysicalUnit="LuminousIntensity" Color="1.000000,1.000000,1.000000,1.000000" NaturalReadout="Percent" EncoderResolution="Coarse" />
+                <Attribute Name="Step8" Pretty="Step8" Feature="Dimmer.Dimmer" SpecialIndex="0" PhysicalUnit="LuminousIntensity" Color="1.000000,1.000000,1.000000,1.000000" NaturalReadout="Percent" EncoderResolution="Coarse" />
+                <Attribute Name="Step9" Pretty="Step9" Feature="Dimmer.Dimmer" SpecialIndex="0" PhysicalUnit="LuminousIntensity" Color="1.000000,1.000000,1.000000,1.000000" NaturalReadout="Percent" EncoderResolution="Coarse" />
+                <Attribute Name="Step10" Pretty="Step10" Feature="Dimmer.Dimmer" SpecialIndex="0" PhysicalUnit="LuminousIntensity" Color="1.000000,1.000000,1.000000,1.000000" NaturalReadout="Percent" EncoderResolution="Coarse" />
+            </Attributes>
+        </AttributeDefinitions>
+        <Wheels />
+        <PhysicalDescriptions>
+            <Emitters />
+            <CRIs />
+            <FTFilters />
+            <Connectors />
+            <PhysicalProperties>
+                <PhysicalPropertiesData />
+            </PhysicalProperties>
+            <ColorSpace>
+                <ColorSpaceData ColorRed="1.000000,0.000000,0.000000,1.000000" ColorGreen="0.000000,1.000000,0.000000,1.000000" ColorBlue="0.000000,0.000000,1.000000,1.000000" ColorWhitePoint="1.000000,1.000000,1.000000,1.000000" />
+            </ColorSpace>
+        </PhysicalDescriptions>
+        <Models />
+        <Geometries>
+            <Geometry />
+        </Geometries>
+        <DMXModes>
+            <DMXMode Name="Default" Geometry="Geometry 1">
+                <DMXChannels>
+                    <DMXChannel Coarse="11" Highlight="FFFFFF" Geometry="Geometry 1">
+                        <LogicalChannel Attribute="Dimmer" Master="Grand">
+                            <ChannelFunction Attribute="Dimmer" />
+                        </LogicalChannel>
+                    </DMXChannel>
+                    <DMXChannel Coarse="1" Default="FFFFFF" Geometry="Geometry 1">
+                        <LogicalChannel Attribute="Step1">
+                            <ChannelFunction Attribute="Step1" />
+                        </LogicalChannel>
+                    </DMXChannel>
+                    <DMXChannel Coarse="2" Default="FFFFFF" Geometry="Geometry 1">
+                        <LogicalChannel Attribute="Step2">
+                            <ChannelFunction Attribute="Step2" />
+                        </LogicalChannel>
+                    </DMXChannel>
+                    <DMXChannel Coarse="3" Default="FFFFFF" Geometry="Geometry 1">
+                        <LogicalChannel Attribute="Step3">
+                            <ChannelFunction Attribute="Step3" />
+                        </LogicalChannel>
+                    </DMXChannel>
+                    <DMXChannel Coarse="4" Default="FFFFFF" Geometry="Geometry 1">
+                        <LogicalChannel Attribute="Step4">
+                            <ChannelFunction Attribute="Step4" />
+                        </LogicalChannel>
+                    </DMXChannel>
+                    <DMXChannel Coarse="5" Default="FFFFFF" Geometry="Geometry 1">
+                        <LogicalChannel Attribute="Step5">
+                            <ChannelFunction Attribute="Step5" />
+                        </LogicalChannel>
+                    </DMXChannel>
+                    <DMXChannel Coarse="6" Default="FFFFFF" Geometry="Geometry 1">
+                        <LogicalChannel Attribute="Step6">
+                            <ChannelFunction Attribute="Step6" />
+                        </LogicalChannel>
+                    </DMXChannel>
+                    <DMXChannel Coarse="7" Default="FFFFFF" Geometry="Geometry 1">
+                        <LogicalChannel Attribute="Step7">
+                            <ChannelFunction Attribute="Step7" />
+                        </LogicalChannel>
+                    </DMXChannel>
+                    <DMXChannel Coarse="8" Default="FFFFFF" Geometry="Geometry 1">
+                        <LogicalChannel Attribute="Step8">
+                            <ChannelFunction Attribute="Step8" />
+                        </LogicalChannel>
+                    </DMXChannel>
+                    <DMXChannel Coarse="9" Default="FFFFFF" Geometry="Geometry 1">
+                        <LogicalChannel Attribute="Step9">
+                            <ChannelFunction Attribute="Step9" />
+                        </LogicalChannel>
+                    </DMXChannel>
+                    <DMXChannel Coarse="10" Default="FFFFFF" Geometry="Geometry 1">
+                        <LogicalChannel Attribute="Step10">
+                            <ChannelFunction Attribute="Step10" />
+                        </LogicalChannel>
+                    </DMXChannel>
+                </DMXChannels>
+                <Relations>
+                    <Relation Master="_Dimmer" Follower="Geometry 1_Step1.Step1.Step1 1" Type="Multiply" />
+                    <Relation Master="_Dimmer" Follower="Geometry 1_Step2.Step2.Step2 1" Type="Multiply" />
+                    <Relation Master="_Dimmer" Follower="Geometry 1_Step3.Step3.Step3 1" Type="Multiply" />
+                    <Relation Master="_Dimmer" Follower="Geometry 1_Step4.Step4.Step4 1" Type="Multiply" />
+                    <Relation Master="_Dimmer" Follower="Geometry 1_Step5.Step5.Step5 1" Type="Multiply" />
+                    <Relation Master="_Dimmer" Follower="Geometry 1_Step6.Step6.Step6 1" Type="Multiply" />
+                    <Relation Master="_Dimmer" Follower="Geometry 1_Step7.Step7.Step7 1" Type="Multiply" />
+                    <Relation Master="_Dimmer" Follower="Geometry 1_Step8.Step8.Step8 1" Type="Multiply" />
+                    <Relation Master="_Dimmer" Follower="Geometry 1_Step9.Step9.Step9 1" Type="Multiply" />
+                    <Relation Master="_Dimmer" Follower="Geometry 1_Step10.Step10.Step10 1" Type="Multiply" />
+                </Relations>
+                <FTMacros>
+                    <FTDMXMacros />
+                    <FTVisualMacros />
+                </FTMacros>
+                <SoftwareVersions />
+            </DMXMode>
+        </DMXModes>
+        <Revisions>
+            <Revision Text="Created by Admin " Date="12.04.2022 18:34:33" />
+        </Revisions>
+        <FTPresets />
+        <Protocols>
+            <RDMFixtureType>
+                <Parameters />
+                <Notifications>
+                    <RDMAbsentNotification />
+                </Notifications>
+                <FTRDMPersonalityCollect />
+            </RDMFixtureType>
+        </Protocols>
+    </FixtureType>
+</GMA3>
